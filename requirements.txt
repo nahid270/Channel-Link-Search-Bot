@@ -3,7 +3,7 @@ Werkzeug
 gunicorn
 pyrogram
 tgcrypto
-motor[srv]
+motor
 cinemagoer
 aiohttp
 aiofiles

@@ -2,6 +2,6 @@ API_ID       = 28870226
 API_HASH     = "a5b1ff3f75941649bf5bc159782f0f00"
 BOT_TOKEN    = "8464633052:AAF78JZ5JvAhC8k9zgZRAr9N385czKQJ2LU"
 SESSION      = "BQG4hlIAiFzoEOfQRMhaKEko6VtUW11M6v9uiyQ7oEhK070GvlhvpjE4hALDHBIpomsGohfGcsJ_9_l7LnhK6EFBDNu_PnsxAVzAsx0h_-q1atxp4otFocBLucmGV30KogrrCVQyzIlXNIKedpcpRveMCsWaaeth02_q4zcDyVpJSvvmkuCnL9SZ8zaZsqGCTCg0XbsZPV1UH9eFvJsXga1JGgtGwGJdcFAgO9RGAaMl_Nu3-wh-BWFOaCDKVciIv_GZ2DPH5EK1SpdWYcFzceoInqVL_2LuUvlV36CsswAmMGHdQE6sN9fw7fKCPl6pEeTZ4gfRmydsMXLIMwJbIHg6A_tI2gAAAAHAvfxpAA"
-DATABASE_URI = "mongodb+srv://Nahid421:Nahid421@cluster0.fptzprs.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+DATABASE_URI = "mongodb+srv://cogana5793:cogana5793@cluster0.1uo0s.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 LOG_CHANNEL  = -1003712689549
 ADMIN        = 7528643689
